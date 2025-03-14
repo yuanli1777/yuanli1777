@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on Burst Transmission Co.ltd **Projects Data Analysis**
 
-- 🌱 I’m currently learning **vue, springboot, typescript and data science**
+- 🌱 I’m currently learning **react, springboot, typescript and data science**
 
-- 👯 I’m looking to collaborate on **ML & AI projects**
+- 👯 I’m looking to collaborate on **FullStack projects**
 
 - 🤝 I’m looking for help with **Data structure and algorithm**
 
